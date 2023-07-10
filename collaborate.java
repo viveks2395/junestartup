@@ -11,15 +11,4 @@ System.out.println("RollNo of the Student: "+ rollno);
 System.out.println("Grade of the Student: "+ grade);
 System.out.println("*********************************");
 }
-}
-
-
-
-
-
-
-
-
-
-
 }	
